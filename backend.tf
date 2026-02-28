@@ -1,10 +1,10 @@
 terraform {
   backend "azurerm" {
-    # The resource group you created in Phase 1
+    # The resource group you created
     resource_group_name = "rg-terraform-state"
 
-    # Replace with YOUR storage account name from Phase 1
-    storage_account_name = "a296806f661f499ebdcd333f"
+    # Replace with YOUR storage account name
+    storage_account_name = "YOUR-STORAGE-NAME"
 
     # The container name you created
     container_name = "tfstate"
