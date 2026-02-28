@@ -1,0 +1,6 @@
+location                = "eastus"
+subscription_id         = "YOUR-SUBSCRIPTION-ID"
+tenant_id               = "YOUR-TENANT-ID"
+storage_account_name    = "YOUR-STORAGE-ACCOUNT-NAME"  # Change this — must be globally unique, 
+                                                       # lowercase letters and numbers only, 
+                                                       # 3-24 characters
