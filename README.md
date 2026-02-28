@@ -1,6 +1,6 @@
 # 🚀 n8n on Azure with Terraform
 
-> A production-grade, modular Infrastructure as Code project that deploys a self-hosted [n8n](https://n8n.io) workflow automation instance on Microsoft Azure using Terraform.
+> A modular Infrastructure as Code project that deploys a self-hosted [n8n](https://n8n.io) workflow automation instance on Microsoft Azure using Terraform.
 
 [![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-7B42BC?logo=terraform)](https://www.terraform.io)
 [![Azure](https://img.shields.io/badge/Azure-ACI-0078D4?logo=microsoftazure)](https://azure.microsoft.com)
